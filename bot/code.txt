@@ -1,0 +1,23 @@
+Variable 1:
+Name: TELEGRAM_BOT_TOKEN
+Value: 8308884100:AAEfcSUiiBKV-YIUZs8PUaV6Ik9Gh-3nvZE
+
+Variable 2:
+Name: OWNER_ID
+Value: 5803428693
+
+Variable 3:
+Name: ADMIN_ID
+Value: 6041119040
+
+Variable 4:
+Name: BOT_USERNAME
+Value: Crypto_navasan_bot
+
+Variable 5:
+Name: ENVIRONMENT
+Value: production
+
+Variable 6:
+Name: PORT
+Value: 8000
