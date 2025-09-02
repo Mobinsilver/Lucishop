@@ -1,0 +1,84 @@
+# 🚀 متغیرهای کامل برای Railway Deployment
+
+## 🔧 متغیرهای ضروری (اجباری):
+TELEGRAM_BOT_TOKEN=8308884100:AAEfcSUiiBKV-YIUZs8PUaV6Ik9Gh-3nvZE
+OWNER_ID=5803428693
+ADMIN_ID=6041119040
+BOT_USERNAME=Crypto_navasan_bot
+WEBHOOK_URL=https://your-app-name.railway.app
+
+## 🌍 متغیرهای محیط:
+ENVIRONMENT=production
+PORT=8000
+DEBUG=false
+LOG_LEVEL=INFO
+
+## 🛡️ متغیرهای امنیتی:
+RATE_LIMIT_PER_MINUTE=30
+MAX_USERS=1000
+REQUEST_TIMEOUT=30
+
+## 🔑 API Keys (اختیاری):
+TABDEAL_API_KEY=einA3WTAOWYvNeBR9cdHIB6Tqbw3dkajeWJ8FSRqp3JHy5gr2STfoYMYWBXNa86X
+BRS_API_KEY=BcFwJ8XAXX2SixD6f5UXuIx3cA5b7CBq
+
+## 🌐 متغیرهای API:
+COINGECKO_API_URL=https://api.coingecko.com/api/v3
+EXCHANGERATE_API_URL=https://api.exchangerate.host
+BINANCE_API_URL=https://api.binance.com/api/v3
+TABDEAL_API_URL=https://api1.tabdeal.org/r/api/v1
+BRS_API_URL=https://brsapi.ir/Api/Panel
+
+## ⚙️ متغیرهای تنظیمات:
+CACHE_TTL_SECONDS=180
+MAX_CACHE_SIZE=1000
+ALERT_CHECK_INTERVAL=60
+MAX_ALERTS_PER_USER=10
+MAX_WATCHLIST_ITEMS=50
+MAX_PORTFOLIO_ITEMS=100
+
+## 📊 وضعیت ربات:
+✅ توکن ربات: فعال
+✅ آیدی مالک: تنظیم شده
+✅ آیدی ادمین: تنظیم شده
+✅ یوزرنیم ربات: Crypto_navasan_bot
+✅ محیط: production
+✅ پورت: 8000
+✅ Webhook URL: آماده
+
+## 🎯 ویژگی‌های فعال:
+✅ قیمت ارزهای دیجیتال (234 ارز)
+✅ نرخ ارزهای فیات (20 ارز)
+✅ اخبار ارزهای دیجیتال
+✅ تحلیل تکنیکال کامل
+✅ نمودار و sparkline
+✅ مقایسه قیمت‌ها
+✅ P2P Binance
+✅ سیستم هشدار
+✅ واچ‌لیست شخصی
+✅ پرتفوی مدیریتی
+✅ پنل مدیریتی کامل
+✅ سیستم مدیریت API
+✅ مدیریت ارزها و شاخص‌ها
+✅ پشتیبانی از 3 زبان
+✅ سیستم امنیتی پیشرفته
+
+## 🚀 آماده Deploy:
+✅ تمام فایل‌ها آماده
+✅ تمام هندلرها تست شده
+✅ تمام سرویس‌ها کار می‌کنند
+✅ مستندات کامل
+✅ راهنمای Deploy آماده
+✅ متغیرهای محیطی آماده
+✅ تست‌های خودکار آماده
+
+## 📋 مراحل Deploy:
+1. وارد Railway.app شوید
+2. New Project > Deploy from GitHub
+3. مخزن خود را انتخاب کنید
+4. متغیرهای بالا را در Variables اضافه کنید
+5. WEBHOOK_URL را با آدرس Railway خود جایگزین کنید
+6. منتظر Deploy بمانید
+7. ربات را تست کنید
+
+**🎉 ربات کاملاً آماده است!**
